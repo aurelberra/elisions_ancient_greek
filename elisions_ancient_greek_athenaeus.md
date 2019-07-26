@@ -1,3 +1,15 @@
+# Elided Ancient Greek words in Athenaeus
+# version 1.0
+# 2019-07-14
+# Aurélien Berra
+# 
+# Ancient Greek crases for textual analysis
+# language: Ancient Greek (grc)
+# type: dataset
+# items count: 1264
+# https://github.com/aurelberra/elisions_ancient_greek
+# rights: CC-BY-NC-SA
+
 # CAVEAT
 
 * Elisions (including aphereses) are marked in digital texts with several signs: `’`, `᾽`, or even `'`. The same signs are too often used for elisions and Greek numerals (normally letters followed by `ʹ` (Unicode Greek Numeral Sign, U+0374). These signs should be normalised.
@@ -15,6 +27,7 @@
     * 'ταὔθ᾽': 'τὰ ἀυτὰ'
 
 # ELIDED ANCIENT GREEK WORDS IN ATHENAEUS
+
 * Elisions: 1264, 1257 unique
     * including 8 "deleted" words in square brackets, 1 unique
 

@@ -1,3 +1,15 @@
+# Elided Ancient Greek words
+# version 1.0
+# 2019-07-14
+# Aurélien Berra
+# 
+# Elided Ancient Greek words for textual analysis
+# language: Ancient Greek (grc)
+# type: dataset
+# items count: 428 unambiguous or probable forms, 53 ambiguous forms
+# https://github.com/aurelberra/elisions_ancient_greek
+# rights: CC-BY-NC-SA
+
 # CAVEAT
 
 * Elisions (including aphereses) are marked in digital texts with several signs: `’`, `᾽`, or even `'`. The same signs are too often used for elisions and Greek numerals (normally letters followed by `ʹ` (Unicode Greek Numeral Sign, U+0374). These signs should be normalised.
